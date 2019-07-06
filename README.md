@@ -5,9 +5,9 @@ comment: true
 single: true
 ---
 
-## 前端
+## [前端](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF)
 
-1. [重要知识](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF)：
+1. [重要知识](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86)：
   - [HTML](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/HTML)
   - [CSS](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/CSS)
   - [JS](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/JS)
@@ -22,9 +22,9 @@ single: true
   - [gulp](https://github.com/czf2015/blog/tree/master/%E5%89%8D%E7%AB%AF/5.%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/gulp)
 
 
-## 后端
+## [后端](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF)
 
-1. [重要知识](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF)：
+1. [重要知识](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86)：
   - [HTML](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/HTML)
   - [CSS](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/CSS)
   - [JS](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF/1.%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86/JS)
@@ -39,22 +39,17 @@ single: true
   - [gulp](https://github.com/czf2015/blog/tree/master/%E5%90%8E%E7%AB%AF/5.%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/gulp)
 
 
-## 应用
+## [应用](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8)
 
-- [ ] [UI 设计](#UI设计)
-  - [x] css 与 scss
-  - [ ] animation
-  - [ ] react component
+- [BOM](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8/BOM)
+- [DOM](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8/DOM)
+- [正则](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8/%E6%AD%A3%E5%88%99)
+- [编辑器](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8/%E7%BC%96%E8%BE%91%E5%99%A8)
+- [开发](https://github.com/czf2015/blog/tree/master/%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91)
 
 
-## 数据
+## [数据](https://github.com/czf2015/blog/tree/master/%E6%95%B0%E6%8D%AE)
 
-- CSS 篇
-  - [border-sizing 属性和应用](https://xin-tan.com/passages/2018-06-05-border-sizing/)
-  - [Flex 上手与实战](https://xin-tan.com/passages/2019-03-20-css3-flex/)
-  - [你了解 css3 的 nth-child 吗](https://xin-tan.com/passages/2019-03-19-css3-nth-child/)
-- Scss 篇
-  - [基础：配置和运行](https://xin-tan.com/passages/2018-05-29-scss-fisrt-step/)
-  - [进阶：继承、占位符和混合宏](https://xin-tan.com/passages/2018-05-29-scss-more/)
-  - [「译文」逐步替换 Sass](https://xin-tan.com/passages/2019-05-17-why-i-stopped-using-sass/)
-
+- [可视化](https://github.com/czf2015/blog/tree/master/%E6%95%B0%E6%8D%AE/%E5%8F%AF%E8%A7%86%E5%8C%96)
+- [推荐系统](https://github.com/czf2015/blog/tree/master/%E6%95%B0%E6%8D%AE/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
+- [即时处理](https://github.com/czf2015/blog/tree/master/%E6%95%B0%E6%8D%AE/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
